@@ -1,0 +1,51 @@
+body {
+	background: rgb(2,0,36);
+	background: linear-gradient(137deg, rgba(2,0,36,1) 0%, rgba(105,9,121,1) 0%, rgba(0,228,255,1) 100%);
+	margin: 80px 150px;
+}
+caption {
+	font-family: Impact;
+	font-size: 60px;
+	border-radius: 25px;
+	border: 5px solid #000000;
+	padding: 1px 1px 7px 7px;
+	width: 2800px 300px;
+	text-shadow: 2px 2px 4px #000000;
+	color: white;
+}
+.table{
+	border-radius: 25px;
+	border: 6px solid #FFFFFF; 
+	padding: 3px 3px;
+}
+.border_1 {
+	border-radius: 25px;
+	border: 6px solid #000000; 
+	padding: 3px 3px;
+}
+th{
+	font-size: 30px;
+	color: white;
+}
+.border_2 {
+	border-radius: 0px;
+	border: 0px solid #000000; 
+	padding: 0px 0px;
+}
+.border_3 {
+	border-radius: 25px;
+	border: 6px solid #000000; 
+	padding: 3px 3px;
+}
+table {
+	border-radius: 0px;
+	border: 0px solid #FFFFFF; 
+	padding: 0px 0px;
+	color: none;
+}
+th {
+	border-radius: 0px;
+	border: 0px solid #FFFFFF; 
+	padding: 0px 0px;
+	color: none;
+}
